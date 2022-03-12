@@ -14,7 +14,7 @@ pyb64.py <option> <data>
 ## Options :
 
 1.  '-d' or '--decode'
-2.  '-e' or '--decode'
+2.  '-e' or '--encode'
 
 ## Example :
 
