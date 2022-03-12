@@ -1,4 +1,4 @@
-## Decription
+## Description
 
 The goal here is not to create a useful base64 tool as very good ones already exist. 
 No here, I just wanted to practise some python and understand base64 encoding.
