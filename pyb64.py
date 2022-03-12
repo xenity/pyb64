@@ -56,7 +56,7 @@ def decoding(encoded):
     return decoded
 
 
-if len(sys.argv) > 2:
+if len(sys.argv) == 2:
 
     option = sys.argv[1]
     data = sys.argv[2]
