@@ -8,7 +8,7 @@ I just wanted to understand base64 encoding and practise some python.
 Only text data for now.
 
 ```
-pyb64.py <option> <data> 
+python3 pyb64.py <option> <data> 
 ```
 
 ## Options :
